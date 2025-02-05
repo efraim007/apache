@@ -1,0 +1,3 @@
+wget http://ftp.debian.org/debian/pool/main/v/vsftpd/vsftpd_3.0.3-12_amd64.deb
+
+sudo dpkg -i vsftpd_3.0.3-12_amd64.deb
